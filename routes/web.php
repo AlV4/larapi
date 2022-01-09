@@ -14,10 +14,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 const HASHES = [
-    "ep2UMbksqGnFlaU56HdaPafGfKYqEx4wFdU5Cw8XNRs19ZtHmASBAXUwLfHWoBnU6Q6XNr9hqplzjqwSGFTlaOiEZLMT7bOSjfGBEqIU4R33XEHisSL8CVW5B2ljBc=="
-    => 'alex',
     'ep1UMbksqGnFlaU56HdaPafGfKYqEx4wFdU5Cw8XNRs19ZtHmASBAXUwLfHWoBnU6Q6XNr9hqplzjqwSGFTlaOiEZLMT7bOSjfGBEqIU4R33XEHisSL8CVW5B2ljBc=='
     => 'ola',
+    "ep2UMbksqGnFlaU56HdaPafGfKYqEx4wFdU5Cw8XNRs19ZtHmASBAXUwLfHWoBnU6Q6XNr9hqplzjqwSGFTlaOiEZLMT7bOSjfGBEqIU4R33XEHisSL8CVW5B2ljBc=="
+    => 'alex',
+    'ep3UMbksqGnFlaU56HdaPafGfKYqEx4wFdU5Cw8XNRs19ZtHmASBAXUwLfHWoBnU6Q6XNr9hqplzjqwSGFTlaOiEZLMT7bOSjfGBEqIU4R33XEHisSL8CVW5B2ljBc=='
+    => 'toma',
 ];
 
 Route::permanentRedirect('/', 'https://dila.ua');
