@@ -72,7 +72,7 @@
 <p style="position:absolute;top:279px;left:781px;white-space:nowrap" class="ft111">-</p>
 <p style="position:absolute;top:305px;left:131px;white-space:nowrap" class="ft18"><b>Стать:</b></p>
 <p style="position:absolute;top:305px;left:234px;white-space:nowrap" class="ft111">Жіноча</p>
-<p style="position:absolute;top:305px;left:573px;white-space:nowrap" class="ft18"><b>Дата замовлення:</b></p>
+<p style="position:absolute;top:305px;left:573px;white-space:nowrap" class="ft18"><b>Дата взяття зразка:</b></p>
 <p style="position:absolute;top:305px;left:734px;white-space:nowrap" class="ft111">{{$yesterday}} 10:07</p>
 <p style="position:absolute;top:330px;left:131px;white-space:nowrap" class="ft112"><i><b>Коментарі:</b></i></p>
 <p style="position:absolute;top:330px;left:573px;white-space:nowrap" class="ft118"><i>Відділення&#160;№023&#160;м. Київ, вул. М.&#160;<br/>Цвєтаєвої, 13</i></p>

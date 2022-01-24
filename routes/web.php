@@ -33,7 +33,7 @@ Route::get('/api/patients/orders/covid/info/', function () {
         if (date('D') === 'Mon') {
             $testPoint = strtotime("-2 days");
         }
-        $yesterday = date('d-m-Y', $testPoint);
+        $yesterday = date('d.m.Y', $testPoint);
         return view($testOwner, [
             'yesterday' => $yesterday
         ]);
